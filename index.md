@@ -1,6 +1,8 @@
 # NFL Draft Predictions: Part 1 Web Scraping and Data Cleansing 
 ##### By Elizabeth Khan
 
+![png](web.png)
+
 ## Goal: To predict which round a Quarterback, Wide Reciever, or Running Back will be drafted to the NFL  based on the player's performance throughout the regular season. 
 
 
