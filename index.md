@@ -6,7 +6,7 @@
 ## Goal: To predict which round a Quarterback, Wide Reciever, or Running Back will be drafted to the NFL  based on the player's performance throughout the regular season. 
 
 
-### In this notebook I will be covering the web scraping and the data cleansing process for this dataset. If you wish to learn more about the feature engineering and modeling please proceed to the other Jupyter Notebook located here.
+### In this notebook I will be covering the web scraping and the data cleansing process for this dataset. If you wish to learn more about the feature engineering and modeling please proceed to the other Jupyter Notebook located [here.](https://elizkhan.github.io/NFLPredictions2/)
 
 ### Step 1: Use the Beautiful Soup python package to scrape player statistics for Passing, Receiving, and Rushing from the sports-reference.com website
 
